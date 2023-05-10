@@ -1,0 +1,181 @@
+.header {
+    display: flex;
+    background-color: #1f2937;
+    color: beige;
+    height: 100px;
+    justify-content: space-between;
+   
+ 
+}
+
+.links {
+ display: flex;
+   
+   column-gap: 60px;
+   padding-right: 200px;
+   
+  
+   
+    
+}
+    
+  
+a {
+    color: beige;
+}
+   
+
+
+
+
+nav.logo {
+    margin-right: auto;
+    margin-left: 300px;
+    
+}
+
+section, .second {
+    background-color: #1f2937;
+    display: flex;
+    color: beige;
+    flex-wrap: wrap;
+    height: 400px;
+    justify-content: space-around;
+    
+    
+    
+}
+.hero {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+    
+    
+}
+
+
+.hero h1, p, .button {
+    width: 530px;
+    
+}
+
+.photo img{
+    width: 400px;
+    height: 300px;
+    padding-top: 40px;
+    
+}
+
+h1 {
+    font-size: 48px;
+    height: 1px;
+}
+
+p {
+    height: 1px;
+    padding-bottom: 30px;
+}
+
+button {
+    height:40px;
+    width:180px;
+    font-size: 18px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    color: beige;
+    margin-bottom: 30px;
+}
+
+section, .random {
+    background-color: white;
+    color: black;
+}
+
+.art img {
+    height: 200px;
+    width: 200px;
+    
+    
+}
+
+.middle {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+div .art {
+    display: flex;
+    
+  
+   
+  
+    
+    
+}
+
+.art .photos {
+ 
+   
+
+}
+
+.last {
+    background-color: #e5e7eb;
+    height: 300px;
+    font-size: 36px;
+    font-style: italic;
+    padding-top: 200px;
+    padding-left: 50px;
+    padding-right: 50px;
+ 
+}
+
+.end {
+    background-color: #3882f6;
+    color: beige;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    height: 150px;
+    margin-top: 50px;
+    width: 1000px;
+    margin-left: 500px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+ footer {
+    background-color: white;
+    height: 200px;
+ }   
+
+ .end p {
+    display: flex;
+    color: azure;
+    display: inline;
+    padding-left: 8px;
+    width: 100%;
+ }
+
+ .end button {
+    border: solid;
+ }
+
+
+
+
+    
+    
+
+
+
+
+
+
+    
+
+    
+    
+
+
